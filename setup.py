@@ -11,12 +11,12 @@ here = path.abspath(path.dirname(__file__))
 #     long_description = f.read()
 
 setup(
-    name='accuweather_python',
+    name='accuwython',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.1a',
+    version='0.1.0',
 
     description='This Wrapper for AccuWeather API',
     long_description='This proyect is intended to ease the access to SocialbAccuWeatherakers API.',
